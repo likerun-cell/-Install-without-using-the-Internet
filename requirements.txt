@@ -1,0 +1,7 @@
+django
+django-rest-framework
+statsd
+psycopg2-binary
+watchdog
+lxml
+kafka-python
